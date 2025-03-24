@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on telegram bot 
 - 📫 How to reach me https://wa.link/x36tjk
-- 😄 Pronouns: Saily Sai
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: In every action there is an opposite but equally reaction.
 
 <!---
